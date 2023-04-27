@@ -1,2 +1,2 @@
 # personalsite
-Link: https://githubumang.github.io/personalsite/
+Link: https://proaman9696.github.io/personalsite/
